@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <title>My CV</title>
+    <style>
+      body {
+        background-color: lightgrey;
+      }
+      h1 {
+        color: darkblue;
+      }
+      h2 {
+        color: darkgreen;
+      }
+      h3 {
+        color: purple;
+      }
+      p {
+        font-size: 16px;
+      }
+      ul {
+        list-style-type: square;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>My CV</h1>
+    <h2>Personal Information</h2>
+    <p>Name: Abubakr Arqam</p>
+    <p>Email: abubakrarqam837@gmail.com</p>
+    <p>Location: Lahore, Pakistan</p>
+    <h2>Education</h2>
+    <h3>Bachelor's Degree in Civil Engineering</h3>
+    <p>University of Engineering and Technology, Lahore</p>
+    <p>Graduated: July 2024</p>
+    <h2>Professional Licenses and Certifications</h2>
+    <ul>
+      <li>Professional Engineer (PE) in New York</li>
+      <li>Project Management Professional (PMP) certification</li>
+    </ul>
+    <h2>Work Experience</h2>
+    <h3>Junior Project manager</h3>
+    <p>Izhar Group</p>
+    <p>nov 2022- Present</p>
+    <ul>
+      <li>Managed the design and construction of multiple infrastructure projects, including roads, bridges, and water treatment plants</li>
+      <li>Coordinated with clients, contractors, and regulatory agencies to ensure project success</li>
+      <li>Conducted site inspections and performed quality assurance checks to ensure compliance with project specifications and codes</li>
+    </ul>
+    <h3>Civil Engineer Intern</h3>
+    <p>Izhar Group</p>
+    <p>June 2022-Nov 2022</p>
+    <ul>
+      <li>Assisted senior engineers with the design and analysis of structural and transportation projects</li>
+      <li>Participated in field surveys and measurements to gather data for project design</li>
+      <li>Prepared technical reports and presentations for clients and project team members</li>
+    </ul>
+  </body>
+</html>
